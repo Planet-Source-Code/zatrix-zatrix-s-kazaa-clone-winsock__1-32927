@@ -1,0 +1,93 @@
+HTTP/1.0 501 Not Implemented
+X-Kazaa-Username: chelsea_158
+X-Kazaa-Network: ???
+X-Kazaa-IP: 24.66.100.230:1214
+
+HTTP/1.0 501 Not Implemented
+X-Kazaa-Username: DanBergman
+X-Kazaa-Network: ???
+X-Kazaa-IP: 0.0.0.0:1214
+
+HTTP/1.0 501 Not Implemented
+X-Kazaa-Username: scoobiecat
+X-Kazaa-Network: KaZaA
+X-Kazaa-IP: 24.66.100.194:1214
+X-Kazaa-SupernodeIP: 24.66.100.195:1214
+
+HTTP/1.0 501 Not Implemented
+X-Kazaa-Username: A!MER
+X-Kazaa-Network: KaZaA
+X-Kazaa-IP: 24.66.100.193:1214
+X-Kazaa-SupernodeIP: 24.66.100.195:1214
+
+HTTP/1.0 501 Not Implemented
+X-Kazaa-Username: Pierowaym
+X-Kazaa-Network: KaZaA
+X-Kazaa-IP: 24.66.100.195:1214
+
+HTTP/1.0 501 Not Implemented
+X-Kazaa-Username: SilverWolf3811
+X-Kazaa-Network: KaZaA
+X-Kazaa-IP: 24.66.100.141:1214
+X-Kazaa-SupernodeIP: 24.43.88.92:1214
+
+HTTP/1.0 501 Not Implemented
+X-Kazaa-Username: czapski
+X-Kazaa-Network: KaZaA
+X-Kazaa-IP: 24.66.100.160:1214
+X-Kazaa-SupernodeIP: 24.66.100.195:1214
+
+HTTP/1.0 501 Not Implemented
+X-Kazaa-Username: JaNnA_z_15
+X-Kazaa-Network: KaZaA
+X-Kazaa-IP: 24.66.100.156:1214
+X-Kazaa-SupernodeIP: 24.76.176.211:1214
+
+HTTP/1.0 501 Not Implemented
+X-Kazaa-Username: David
+X-Kazaa-Network: KaZaA
+X-Kazaa-IP: 24.66.100.109:1214
+X-Kazaa-SupernodeIP: 24.86.140.31:1214
+
+HTTP/1.0 501 Not Implemented
+X-Kazaa-Username: STEIMER99
+X-Kazaa-Network: KaZaA
+X-Kazaa-IP: 24.66.100.70:1214
+X-Kazaa-SupernodeIP: 24.112.21.57:1214
+
+HTTP/1.0 501 Not Implemented
+X-Kazaa-Username: sWeRdSy
+X-Kazaa-Network: KaZaA
+X-Kazaa-IP: 24.66.100.62:1214
+X-Kazaa-SupernodeIP: 24.112.88.38:1214
+
+HTTP/1.0 501 Not Implemented
+X-Kazaa-Username: cozminski
+X-Kazaa-Network: KaZaA
+X-Kazaa-IP: 24.66.100.74:1214
+X-Kazaa-SupernodeIP: 24.66.101.12:1214
+
+HTTP/1.0 501 Not Implemented
+X-Kazaa-Username: efin55
+X-Kazaa-Network: KaZaA
+X-Kazaa-IP: 24.66.100.42:1214
+X-Kazaa-SupernodeIP: 24.66.100.195:1214
+
+HTTP/1.0 501 Not Implemented
+X-Kazaa-Username: onomo00_mar
+X-Kazaa-Network: KaZaA
+X-Kazaa-IP: 24.66.100.50:1214
+X-Kazaa-SupernodeIP: 24.66.70.116:1214
+
+HTTP/1.0 501 Not Implemented
+X-Kazaa-Username: mpupeza
+X-Kazaa-Network: ???
+X-Kazaa-IP: 24.66.100.41:1214
+
+HTTP/1.0 501 Not Implemented
+X-Kazaa-Username: hello
+X-Kazaa-Network: fileshare
+X-Kazaa-IP: 24.66.100.8:1214
+X-Kazaa-SupernodeIP: 24.65.49.156:1214
+
+
